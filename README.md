@@ -50,9 +50,10 @@ Developer | BI Analyst | Business Analyst Would be happy to connect with recruit
 
 Grateful to Innomatics Research Labs for guidance and support.
 
-<img width="697" height="398" alt="powerbi_project page4" src="https://github.com/user-attachments/assets/a2a6794e-af76-4388-a05f-778b1b04ef84" />
+
 <img width="713" height="395" alt="powerbi_project page1" src="https://github.com/user-attachments/assets/2c52ad43-692d-44bb-ba88-dd225d0d083f" />
 <img width="693" height="398" alt="powerbi_project page 3" src="https://github.com/user-attachments/assets/55d95fa8-060e-4f5e-a7f7-4cef90189ebf" />
 <img width="710" height="402" alt="powerbi_project page 2" src="https://github.com/user-attachments/assets/2b1893df-7c54-4b54-9fa3-de3322b5775f" />
+<img width="697" height="398" alt="powerbi_project page4" src="https://github.com/user-attachments/assets/a2a6794e-af76-4388-a05f-778b1b04ef84" />
 
 
